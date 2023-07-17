@@ -104,3 +104,19 @@ code {
   border-radius: 3px;
   cursor: pointer;
 }
+
+.post{
+  border: 1px solid #e1e1e1;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+.post a{
+  color: black;
+  text-decoration: none;
+  
+}
+.post a:hover{
+  color: #2196f3;
+}

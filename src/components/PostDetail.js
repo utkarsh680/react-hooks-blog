@@ -26,8 +26,7 @@ function PostDetail() {
             <div className="post" key={index}>
               <h3>{post.title}</h3>
               <p>{post.subTitle}</p>
-              <p>{post.content}</p>
-              
+              <p>{post.content}</p> 
              </div>
           ))}
       </div>

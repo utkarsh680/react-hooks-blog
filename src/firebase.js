@@ -1,15 +1,16 @@
-import firebase from 'firebase/compat/app'
+
+// Import the functions you need from the SDKs you need
+import firebase from 'firebase/compat/app';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCFijh-siwT74LPcHIrU7dc3HSpuYK_ZLw",
-  authDomain: "react-hooks-blog-11555.firebaseapp.com",
-  projectId: "react-hooks-blog-11555",
-  storageBucket: "react-hooks-blog-11555.appspot.com",
-  messagingSenderId: "128188289109",
-  appId: "1:128188289109:web:cef860cec261ccbd0284dc"
+  apiKey: "AIzaSyB2KSybtqkJF4WxNW-RzfDO8lrx-3zJZYo",
+  authDomain: "react-hooks-17483.firebaseapp.com",
+  projectId: "react-hooks-17483",
+  storageBucket: "react-hooks-17483.appspot.com",
+  messagingSenderId: "95555231411",
+  appId: "1:95555231411:web:d49ba3a14cc6789ff45ac6"
 };
-
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
